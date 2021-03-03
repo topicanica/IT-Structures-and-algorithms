@@ -1,2 +1,2 @@
 # IT-Structures-and-algorithms
-Structures and algorithm course tasks
+This repository consist of tasks during structures and algorithm course.
